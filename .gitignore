@@ -282,7 +282,6 @@ gradle-app.setting
 # Java heap dump
 *.hprof
 
-.github
 
 **/front-end/node_modules/**
 **/front-end/static/**
